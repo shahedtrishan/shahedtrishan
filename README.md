@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 contact me @ shahedtrishan41@gmail.com
+- 📫 contact me @ shahedtrishan51@gmail.com
 
 <!---
 shahedtrishan/shahedtrishan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
