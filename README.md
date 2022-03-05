@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shahedtrishan
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, Mobile App Develpment, MySQL
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Web Development
 - 📫 contact me @ shahedtrishan51@gmail.com
 
 <!---
