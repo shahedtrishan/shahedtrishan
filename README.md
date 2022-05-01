@@ -1,7 +1,7 @@
 Hi 👋 My name is Shahed Trishan
 ===============================
 
-Software Engineer | Web Developer
+Software Engineer | Web Developer | Frontend Expert
 ---------------------------------
 
 Final Year CSE student at University of Asia Pacific. Been learning Web Development for almost an year now. Started with frontend and I've build up passion for backend too. Skill I want to learn next is mobile app development.
